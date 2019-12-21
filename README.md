@@ -1,2 +1,1 @@
-Silence is golden ;)# boxes-responsives
-# boxes-responsives
+Silence is golden ;)
